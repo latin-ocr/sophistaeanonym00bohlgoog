@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sophistaeanonym00bohlgoog_0006.png"; bbox 0 0 3825 5384; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 629 1522 1093 1699">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 629 1522 1093 1699">
+     <span class='ocr_line' id='line_1_1' title="bbox 629 1522 1093 1612; baseline 0.037 -28"><span class='ocrx_word' id='word_1_1' title='bbox 629 1564 633 1573; x_wconf 54' lang='grc' dir='ltr'><strong><em>ι</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 681 1522 789 1593; x_wconf 70' lang='lat' dir='ltr'><strong>From</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 804 1538 867 1597; x_wconf 77' lang='lat' dir='ltr'>the</span> <span class='ocrx_word' id='word_1_4' title='bbox 881 1540 1093 1612; x_wconf 74' lang='lat' dir='ltr'><strong>University</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 761 1621 1009 1699; baseline 0.036 -18"><span class='ocrx_word' id='word_1_5' title='bbox 761 1621 809 1691; x_wconf 85' lang='lat' dir='ltr'>by</span> <span class='ocrx_word' id='word_1_6' title='bbox 819 1631 1009 1699; x_wconf 69' lang='lat' dir='ltr'><strong>exchange.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 589 2214 1369 2307">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 589 2214 1369 2307">
+     <span class='ocr_line' id='line_1_3' title="bbox 589 2214 1369 2307; baseline 0 -20"><span class='ocrx_word' id='word_1_7' title='bbox 589 2232 657 2287; x_wconf 92' lang='lat' dir='ltr'>Von</span> <span class='ocrx_word' id='word_1_8' title='bbox 676 2234 728 2289; x_wconf 84' lang='lat' dir='ltr'>der</span> <span class='ocrx_word' id='word_1_9' title='bbox 746 2214 1014 2307; x_wconf 58' lang='lat' dir='ltr'>philosophischen</span> <span class='ocrx_word' id='word_1_10' title='bbox 1032 2233 1175 2289; x_wconf 63' lang='lat' dir='ltr'>Fakultat</span> <span class='ocrx_word' id='word_1_11' title='bbox 1194 2234 1369 2306; x_wconf 76' lang='lat' dir='ltr'><strong>genehmigt</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 785 2379 1181 2434">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 785 2379 1181 2434">
+     <span class='ocr_line' id='line_1_4' title="bbox 785 2379 1181 2434; baseline 0 -3"><span class='ocrx_word' id='word_1_12' title='bbox 785 2396 833 2432; x_wconf 83' lang='lat' dir='ltr'>am</span> <span class='ocrx_word' id='word_1_13' title='bbox 852 2380 894 2433; x_wconf 82' lang='lat'>15.</span> <span class='ocrx_word' id='word_1_14' title='bbox 914 2379 1085 2434; x_wconf 84' lang='lat' dir='ltr'>November</span> <span class='ocrx_word' id='word_1_15' title='bbox 1103 2379 1181 2432; x_wconf 78' lang='lat'>1902.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1918 5384">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1918 5384">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1918 5384; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1918 5384; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
